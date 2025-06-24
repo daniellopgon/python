@@ -1,0 +1,13 @@
+# Ignorar archivos y carpetas innecesarios de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.vscode/
+.DS_Store
+*.test
+.python.pdf
